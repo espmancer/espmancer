@@ -14,6 +14,8 @@
 - Rhythm Games - Beat Saber, Muse Dash, Quaver
 - Learning C++ - Somewhere around a year
 - Inconsistent Streamer
+- Absolute Sci-Fi nerd
+- DM for Fifth Edition D&D for 3 years
 
 ## Links
 - Twitch - twitch.tv/selisine
