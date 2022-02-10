@@ -30,9 +30,7 @@
 - 💬 Ask me about Joe
 <!--- https://en.wikipedia.org/wiki/Joe_Gatto_(comedian) -->
 - 📫 How to reach me: 
-  - Phone # - 317-605-7756 | Text me, I will not be able to answer calls very often 
   - Discord - Selisine#1068
-
   - Email - aidenpike113@gmail.com 
   - Instagram - aiden_s_p
   - Snapchat - selisine_ap
