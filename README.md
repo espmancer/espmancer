@@ -13,6 +13,8 @@
 - Piano - 5 years
 - Rhythm Games - Beat Saber, Muse Dash, Quaver
 - Learning C++ - Somewhere around a year
+- Learning C# - Somewhere around a couple months
+- Looking to learn Java just cause it comes from C as well
 - Inconsistent Streamer
 - Absolute Sci-Fi nerd
 - DM for Fifth Edition D&D for 3 years
