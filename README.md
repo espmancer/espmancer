@@ -1,4 +1,4 @@
-# Bonjour-
+# 👋
 
 ## Education
 - 10th Grade (Sophomore)
