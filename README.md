@@ -35,6 +35,3 @@
   - Instagram - aiden_s_p
 - 😄 Pronouns: he/him
 - ❤️ I love my girlfriend - 12/3/21
-- boy liker
-- absolute gremlin
--
