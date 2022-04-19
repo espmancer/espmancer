@@ -26,7 +26,7 @@
 - Discord Server for Twitch - discord.com/invite/DZgjbCUFS6
 - Youtube [Gaming] - https://www.youtube.com/channel/UCLmMsTNUVaDct4cqrJxliHA
 - Youtube [Music] - https://www.youtube.com/channel/UCORbJJS-DAN0kPUx4a5FHAQ
-- Repl.it - https://replit.com/@ThePianist
+- Repl.it - https://replit.com/@Selisine
 
 ## Misc
 - 📫 How to reach me: 
