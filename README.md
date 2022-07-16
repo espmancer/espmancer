@@ -34,4 +34,3 @@
   - Email - aidenpike113@gmail.com 
   - Instagram - aiden_s_p
 - 😄 Pronouns: he/him
-- ❤️ I love my girlfriend - 12/3/21
