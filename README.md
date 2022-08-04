@@ -1,20 +1,19 @@
 # 👋
 
 ## Education
-- 10th Grade (Sophomore)
+- 11th Grade 
 - Basic Choir for 4 years
-- Currently in IT Computer Science
-- Robotics class (awful would not recommend)
+- Currently in Principles of Computing
 - 4 Dual Credit classes so far
-- Looking to do AP Music Theory Junior year
-- French class Junior year
+- They didn't let me into AP Music Theory >:(
+- French I
 
 ## Hobbies & Interests
 - Piano - 5 years
 - Rhythm Games - Beat Saber, Quaver
 - Learning C++ - Somewhere around a year
 - Learning C# - Somewhere around a couple months
-- Looking to learn Java just cause it comes from C as well
+- Learning Java - Couple months
 - Inconsistent Streamer
 - Absolute Sci-Fi nerd
 - D&D is cool
@@ -34,3 +33,4 @@
   - Email - aidenpike113@gmail.com 
   - Instagram - aiden_s_p
 - 😄 Pronouns: he/him
+- ♥️ 7/24/22 ♥️
