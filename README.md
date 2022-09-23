@@ -1,4 +1,4 @@
-# 👋 I'm Aiden P
+# 👋 Hey there! I'm Aiden P.
 
 ## Education
 - 11th Grade 
@@ -12,7 +12,8 @@
 - C++, Java, a little bit of C#
 - Absolute Sci-Fi nerd
 - D&D is cool
-- Writing
+- Writing 
+- Robotics Team (1741!)
 
 ## Links
 - [Twitch](https://twitch.tv/selisine)
