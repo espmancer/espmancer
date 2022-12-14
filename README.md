@@ -3,12 +3,12 @@
 ## Education
 - 11th Grade 
 - Choir for 4 years, Music Theory for 1 year, Piano for 5 years
-- Computers in Design, IT Computer Science I, Principles of Computing, Robotics Design & Innovation
+- Computers in Design, IT Computer Science I, Principles of Computing, Robotics Design & Innovation, Principles of Computing
 - French I
 
 ## Hobbies & Interests
 - Piano Composition & Playing
-- Rhythm & Factory Games - Beat Saber, Quaver, Factorio, Shapez
+- Rhythm & Factory Games - Beat Saber, Factorio, Shapez
 - C++, Java, a little bit of C#
 - Absolute Sci-Fi nerd
 - D&D is cool
