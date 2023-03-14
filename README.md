@@ -10,9 +10,13 @@
 ## Language Knowledge
 ### Range
 **1:** I know the basics of this language but not enough to apply to a multitude of scenarios.
+
 **2:** I know some of the language's tricks and can code a majority of scenarios, but I can definitely expand on my thinking process and knowledge for it.
+
 **3:** I've learned the ins and outs of this language and have advanced knowledge in the thinking and syntax of the language, but there is still a lot of techniques and common rules I can learn.
+
 **4:** I can apply my knowledge of this language to a multitude of advanced scenarios and apply my skills as a career.
+
 **5:** I am a master of this language, and can apply my skills on large-scale advanced projects.
 ### Table
 | Language | Knowledge | Years Known/Practiced | Classses on it |
