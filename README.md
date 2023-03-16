@@ -13,7 +13,7 @@ https://github.com/aidenpike/CBPR/
 
 <h3>My stats</h3>
 
-![Aiden P's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenpike&theme=radical)
+![Aiden P's GitHub stats](https://github.com/aidenpike/vercel-implementation&theme=radical)
 
 <h3>Hobbies of Mine</h3>
 - I've been playing piano for 6 years now<br> 
