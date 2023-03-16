@@ -11,7 +11,7 @@
 <h4>CBPR</h4>
 https://github.com/aidenpike/CBPR/
 
-<h3>My stats</h3>
+<h3>My Stats</h3>
 
 [![Aiden P's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenpike&theme=radical&include_all_commits=true)](http://github.com/aidenpike/vercel-implementation)
 
@@ -20,3 +20,8 @@ https://github.com/aidenpike/CBPR/
 - I play a lot of rhythm games<br>
 - I like to write in my freetime<br>
   - Working on a book right now!
+
+<h3>Clubs I'm In</h3>
+- Writer's League
+- [Red Alert Robotics](http://www.redalert1741.org)
+- Programming Club
