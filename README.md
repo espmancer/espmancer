@@ -14,3 +14,9 @@ https://github.com/aidenpike/CBPR/
 <h3>My stats</h3>
 
 ![Aiden P's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenpike&theme=radical)
+
+<h3>Hobbies of Mine</h3>
+- I've been playing piano for 6 years now 
+- I play a lot of rhythm games
+- I like to write in my freetime
+  - Working on a book right now!
