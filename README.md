@@ -1,9 +1,16 @@
 <h1 align="center">Hello there 👋 I'm Aiden P.</h1>
-<h4 align="center">I want to become a software developer/engineer<br>(Maybe full-stack or back-end)</h4>
-github.com/aidenpike/aidenpike
+<h4 align="center">I want to become either a full-stack or back-end developer in the future.</h4>
 
-![Aiden P's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenpike&hide=contribs,prs)
+- I'm working primarily on [C++](https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093) 
+- I want to expand on [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)), and [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
+- I might learn a database language like [SQL](https://en.wikipedia.org/wiki/SQL)
+- I may also learn [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), and [JavaScript](https://en.wikipedia.org/wiki/JavaScript).
 
-<h3 align="center">Languages</h3>
-<p align="center"> <a href="https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093" target="_blank"> <img src="![image](https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg)
-" alt="C++" width="40" height="40"/></a>
+<h3>Here's a big project I'm working on in C++:</h3>
+
+<h4>CBPR</h4>
+https://github.com/aidenpike/CBPR/
+
+<h3>My stats</h3>
+
+![Aiden P's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenpike&theme=radical)
