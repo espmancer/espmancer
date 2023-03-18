@@ -22,6 +22,6 @@ https://github.com/aidenpike/CBPR/
   - Working on a book right now!
 
 <h3>Clubs I'm In</h3>
-- Writer's League
-- [Red Alert Robotics](http://www.redalert1741.org)
-- Programming Club
+- Writer's League<br>
+- [Red Alert Robotics](http://www.redalert1741.org)<br>
+- [Programming Club](https://github.com/CGProgramming-Club)
