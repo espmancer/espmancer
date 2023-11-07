@@ -8,9 +8,9 @@
   <li>Need some things organized in Excel? I can probably help!
   <li>I may also learn <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> (What made this README!), <a href="https://en.wikipedia.org/wiki/CSS">CSS</a>, and <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a></li>
   </ul>
-<h4>Here's a big project I'm working on in C++:</h4>
+<h4>Here's a project I'm working on in C++:</h4>
 <h5>CBPR</h5>
-https://github.com/aidenpike/CBPR/
+https://github.com/aidenpike/edgewood-sales
 <h3>My Stats</h3>
 <p>
   <a>
