@@ -4,7 +4,7 @@
   <ul>
   <li>I'm working primarily on <a href="https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093">C++</a></li>
   <li>I'm adept in <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></li>
-  <li>I am learing <a href="https://en.wikipedia.org/wiki/SQL">SQL</a></li>
+  <li>I am learning <a href="https://en.wikipedia.org/wiki/SQL">SQL</a></li>
   <li>I've dabbled in a few languages such as <a href="https://en.wikipedia.org/wiki/APL_(programming_language)">, <a href="https://en.wikipedia.org/wiki/HTML">HTML (Which made this README!), </li>
   </ul>
 <h4>Here's a project I'm working on in C++:</h4>
@@ -32,6 +32,8 @@
   <li>I play a lot of rhythm games</li>
   <li>I like to write in my freetime
   <br/>&nbsp;&nbsp;&nbsp;&nbsp;- Working on a book right now!</li>
+  </ul>
+  
 <h3>Clubs I'm In</h3>
   <ul>
   <li><a href="http://www.redalert1741.org">Red Alert Robotics</a> (Former Member)</li>
