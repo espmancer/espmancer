@@ -2,7 +2,7 @@
 <h4 align="center">I'd like to study software development and become a back-end developer in the future.</h4>
 
   <ul>
-  <li>I'm work primarily with <a href="https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093">C++</a></li>
+  <li>I work primarily with <a href="https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093">C++</a></li>
   <li>I'm adept in <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></li>
   <li>I am learning <a href="https://en.wikipedia.org/wiki/SQL">SQL</a></li>
   <li>I've dabbled in a few languages such as <a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> (Which made this README!), and <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></li>
