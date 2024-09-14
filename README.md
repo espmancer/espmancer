@@ -31,14 +31,6 @@
   <ul>
   <li>I've been playing piano for 7 years now</li>
   <li>I play a lot of rhythm games</li>
-  <li>I like to write in my freetime
+  <li>I like to write in my freetime</li>
   <br/>&nbsp;&nbsp;- Working on a book right now!</li>
-  </ul>
-  
-<h3>Clubs I'm In</h3>
-  <ul>
-  <li><a href="http://www.redalert1741.org">Red Alert Robotics</a> (Former Member)</li>
-  <li><a href="https://github.com/CGProgramming-Club">Programming Club</a> (President & Founder)</li>
-  <li>Writer's League</li>
-  <li>Tri-M Music Honors Society (Former Member)</li>
   </ul>
