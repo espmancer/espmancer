@@ -1,15 +1,18 @@
-<h1 align="center">Hello there 👋 I'm Aiden P.</h1>
-<h4 align="center">I'd like to study software development and become a back-end developer in the future.</h4>
+<h1 align="center">🪐Dido kitopako, bonjour, and hello! I'm Aiden P.✨</h1>
+<h4 align="center">I'm a college freshman, a programmer and a linguistics nerd.<br/>
+(👀See my website for more!👀)
+</h4>
 
   <ul>
-  <li>I work primarily with <a href="https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093">C++</a></li>
-  <li>I'm adept in <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></li>
-  <li>I am learning <a href="https://en.wikipedia.org/wiki/SQL">SQL</a></li>
-  <li>I've dabbled in a few languages such as <a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> (Which made this README!), and <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></li>
+    <li>I work primarily with <a href="https://en.wikipedia.org/wiki/C%2B%2B?scrlybrkr=dfed5093">C++</a></li>
+    <li>I'm adept in <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">Python</a></li>
+    <li>I've dabbled in a few languages such as <a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a>, <a href="https://en.wikipedia.org/wiki/HTML">HTML</a> (Which made this README!), and <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></li>
   </ul>
-    
-<h4>Here's a project I'm working on in C++:</h4>
-<a href="https://github.com/aidenpike/edgewood-sales">Edgewood Sales</a>
+
+<h3>Current Projects</h3>
+- [Web Portfolio](https://github.com/aidenpike/web-portfolio)
+- Qvefozian (no online docs yet...)
+
 <h3>My Stats</h3>
 <p>
   <a>
@@ -26,11 +29,3 @@
     </picture>
   </a>
 </p>
-
-<h3>Hobbies of Mine</h3>
-  <ul>
-  <li>I've been playing piano for 7 years now</li>
-  <li>I play a lot of rhythm games</li>
-  <li>I like to write in my freetime</li>
-  <br/>&nbsp;&nbsp;- Working on a book right now!</li>
-  </ul>
