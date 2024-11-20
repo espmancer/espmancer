@@ -12,7 +12,7 @@
 <h3>Current Projects</h3>
 <ul>
   <li><a href="https://github.com/aidenpike/web-portfolio">Web Portfolio</a></li>
-  <li>Qvefozian (no online docs yet...)</li>
+  <li>Ictuk (no online docs yet...)</li>
 </ul>
 
 <h3>My Stats</h3>
