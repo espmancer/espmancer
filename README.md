@@ -1,4 +1,4 @@
-<h1 align="center">🪐Dido kitopako, bonjour, and hello! I'm Aiden P.✨</h1>
+<h1 align="center">🪐Dido kitopako, bonjour, and hello! I'm Ellie P.✨</h1>
 <h4 align="center">I'm a college freshman, a programmer and a linguistics nerd.<br/>
 (👀See my website for more!👀)
 </h4>
