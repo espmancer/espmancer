@@ -1,5 +1,5 @@
 <h1 align="center">🪐Dido kitopako, bonjour, and hello! I'm Ellie P.✨</h1>
-<h4 align="center">I'm a college freshman, a programmer and a linguistics nerd.<br/></h4>
+<h4 align="center">I'm a college sophomore, a programmer and a linguistics nerd.<br/></h4>
 <p align="center"><strong>See my <a href="https://ellie-portfolio.onrender.com/">website</a> for more!</strong></p>
 <h2>🛠️ Skills 🛠️</h2>
   <ul>
@@ -12,3 +12,6 @@
 <ul>
   <a href="https://production-dungeon.onrender.com/">Production Dungeon</a>
 </ul>
+
+<h2>Stats</h2>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">    <img  alt="espmancer's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/espmancer?cardType=level-alternate&theme=dark&preferLogin=false" />  </a>
