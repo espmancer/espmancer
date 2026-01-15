@@ -10,7 +10,8 @@
 
 <h2>‼️ Programming Projects in Progress ‼️</h2>
 <ul>
-  <a href="https://production-dungeon.onrender.com/">Production Dungeon</a>
+  <a href="https://github.com/espmancer/glg-py">Grocery List Generator Python</a>
+  <a href="https://github.com/espmancer/falling-minigame">Falling Mini Game</a>
 </ul>
 
 <h2>Stats</h2>
