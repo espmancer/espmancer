@@ -10,8 +10,8 @@
 
 <h2>Programming Projects in Progress</h2>
 <ul>
-  <a href="https://github.com/espmancer/glg-py">Grocery List Generator Python</a>
-  <a href="https://github.com/espmancer/falling-minigame">Falling Mini Game</a>
+  <li><a href="https://github.com/espmancer/glg-py">Grocery List Generator Python</a></li>
+  <li><a href="https://github.com/espmancer/falling-minigame">Falling Mini Game</a></li>
 </ul>
 
 <h2>Stats</h2>
