@@ -1,6 +1,6 @@
-<h1 align="center">Selisine | Espmancer</h1>
+<h1 align="center">Selisine</h1>
 <h4 align="center">Computer Science | Linguistics <br/></h4>
-<p align="center"><strong>See my <a href="https://ellie-portfolio.onrender.com/">website</a> for more!</strong></p>
+<p align="center"><strong>See my <a href="https://selisine.onrender.com/">website</a> for more!</strong></p>
 <h2> Skills </h2>
   <ul>
     <li>I work primarily with <a href="https://www.ni.com/en/shop/labview.html">LabVIEW</a></li>
