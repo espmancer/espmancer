@@ -20,15 +20,16 @@
         <li><a href="https://en.wikipedia.org/wiki/MySQL">MySQL</a></li>
       </ul>
     </li>
-    <ul>
     <li>I've dabbled or had classes over:
       <ul>
         <li><a href="https://en.wikipedia.org/wiki/APL_(programming_language)">APL</a></li>
         <li><a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">C#</a></li>
         <li><a href="https://en.wikipedia.org/wiki/Java">Java</a></li>
         <li><a href="https://www.rockwellautomation.com/en-us/products/software/factorytalk/designsuite/studio-5000.html">Studio 5000</a></li>
-        <li>Any language I've commited to in my weird project <a href="https://github.com/selisine/fard-loop">Fard Loop</a></li>
-    </ul>
+        <li>Any language I've added to my weird project <a href="https://github.com/selisine/fard-loop">Fard Loop</a></li>
+      </ul>
+    </li>
+  </ul>
 <h2>Stats</h2>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=dark&preferLogin=false">
     <img alt="Selisine's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/selisine?cardType=level-alternate&theme=dark&preferLogin=false"/>
